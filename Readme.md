@@ -14,7 +14,7 @@ Here is a list, sorted on confidence, of those results. Taken on 2017-08-29
 
 ```
 ImagName                                Logo                Confidence
-ustache+logo.jpeg                       Pringles            0.835251
+pringles+moustache+logo.jpeg            Pringles            0.835251
 1427229210313.jpg                       Chevrolet           0.8262858
 Rolex-Logo-Font.jpg                     Rolex               0.7227277
 playstation-logo.jpg                    PlayStation         0.7101602
